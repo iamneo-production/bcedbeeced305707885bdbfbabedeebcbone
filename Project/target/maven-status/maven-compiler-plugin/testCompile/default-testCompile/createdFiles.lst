@@ -8,9 +8,9 @@ StepDefinition/Homepage.class
 Runner/RunTest.class
 Pages/Url.class
 Pages/Testcase2.class
+Utils/EventHandler.class
 StepDefinition/Shopping.class
 StepDefinition/Offers.class
-Utils/EventHandler.class
 Pages/Testcase1.class
 LoggerHandler.class
 Pages/Testcase3.class
